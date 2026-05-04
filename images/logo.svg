@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 44" width="252" height="44">
+  <!-- Compass mark: bold N-point teal, other three at low opacity -->
+  <polygon points="17,1 20.5,14.5 17,19 13.5,14.5" fill="#3ABFB8"/>
+  <polygon points="17,41 20.5,27.5 17,19 13.5,27.5" fill="rgba(58,191,184,0.28)"/>
+  <polygon points="33,20 19.5,23.5 17,20 19.5,16.5" fill="rgba(58,191,184,0.28)"/>
+  <polygon points="1,20 14.5,23.5 17,20 14.5,16.5" fill="rgba(58,191,184,0.28)"/>
+  <circle cx="17" cy="20" r="2.5" fill="#0D2645"/>
+  <circle cx="17" cy="20" r="1.1" fill="#3ABFB8"/>
+  <!-- White wordmark — visible on the navy header -->
+  <text x="42" y="19"
+        font-family="'Arial Narrow',Arial,sans-serif"
+        font-size="16.5" font-weight="700"
+        fill="#FFFFFF" letter-spacing="1.4">ANTARCTIC PENINSULA</text>
+  <!-- Teal sub-label -->
+  <text x="42" y="36"
+        font-family="Arial,Helvetica,sans-serif"
+        font-size="9.8" font-weight="400"
+        fill="#3ABFB8" letter-spacing="4.2">CRUISE GUIDE</text>
+</svg>

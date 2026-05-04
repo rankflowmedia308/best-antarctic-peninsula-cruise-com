@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-antarctic-peninsula-cruise.com/sitemap.xml
